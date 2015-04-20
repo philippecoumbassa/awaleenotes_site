@@ -1,0 +1,50 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300; 
+	background-color: #FBE9E7;
+	color:red;
+}
+
+.reveal .slides{
+	color:#263238;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300; 
+}
+
+.reveal .slides h1{
+	color:#D84315;
+}
+
+.reveal .slides h2{
+	color:#FF7043;
+}
+
+.reveal .slides img{
+	border:none;
+	box-shadow: none;
+}
+
+.tmp ul li{
+	font-size: 20px;
+}
+
+header {
+	background-color: #FAFAFA;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border:; solid red;
+}
+
+header img {
+		height: 40px;
+}
+
+.frame img{
+	width: 150px;
+}
+
+.frame p{
+	font-size: 25px;
+}
