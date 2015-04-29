@@ -1,7 +1,7 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300; 
-	background-color: #FBE9E7;
+	background-color: white;
 	color:red;
 }
 
@@ -29,7 +29,7 @@ body {
 }
 
 header {
-	background-color: #FAFAFA;
+	background-color: #F2F2F2;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-right: 10px;
